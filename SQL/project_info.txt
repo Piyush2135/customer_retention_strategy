@@ -1,0 +1,14 @@
+Project:
+Decoding Customer Value: A SQL-Driven Retention Strategy
+
+Institution:
+IIT Guwahati Summer Projects '26
+
+Prepared by:
+Piyush
+
+Tools:
+Python, SQL, SQLite, Power BI
+
+Main Notebook:
+customer_value_analysis.ipynb

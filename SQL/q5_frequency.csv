@@ -1,0 +1,64 @@
+Frequency of Purchases,Value_Tier,Satisfaction_Flag,Customers,Avg_Spend,Avg_History
+Weekly,High,At_Risk,24,76.33,39.5
+Every 3 Months,High,At_Risk,28,78.43,38.71
+Annually,High,At_Risk,25,75.04,37.88
+Quarterly,High,Neutral,88,78.53,37.83
+Fortnightly,High,Neutral,71,79.42,37.8
+Every 3 Months,High,Neutral,77,75.96,37.71
+Every 3 Months,High,Satisfied,87,78.29,37.56
+Bi-Weekly,High,Satisfied,78,79.26,37.49
+Quarterly,High,Satisfied,77,80.53,37.48
+Weekly,High,Satisfied,84,76.69,37.13
+Monthly,High,Neutral,60,76.05,37.0
+Fortnightly,High,Satisfied,76,77.92,36.86
+Bi-Weekly,High,Neutral,62,77.82,36.76
+Quarterly,High,At_Risk,34,75.85,36.59
+Monthly,High,At_Risk,24,78.71,36.58
+Monthly,High,Satisfied,82,77.13,36.21
+Annually,High,Neutral,71,77.66,36.04
+Bi-Weekly,High,At_Risk,33,81.06,35.79
+Annually,High,Satisfied,76,81.58,35.66
+Weekly,High,Neutral,74,76.7,35.46
+Fortnightly,High,At_Risk,28,81.61,33.89
+Quarterly,Mid,Neutral,78,56.42,28.17
+Quarterly,Mid,At_Risk,40,51.73,27.88
+Fortnightly,Mid,At_Risk,34,57.35,27.53
+Weekly,Mid,Neutral,79,57.72,26.62
+Fortnightly,Mid,Satisfied,63,58.57,26.54
+Monthly,Mid,At_Risk,37,57.57,26.41
+Annually,Mid,At_Risk,35,60.86,26.31
+Monthly,Mid,Neutral,94,58.07,26.2
+Bi-Weekly,Mid,Satisfied,76,58.12,25.62
+Annually,Mid,Neutral,84,60.68,25.11
+Every 3 Months,Mid,Satisfied,81,60.06,25.07
+Weekly,Mid,Satisfied,69,59.49,24.91
+Quarterly,Mid,Satisfied,77,60.3,24.61
+Fortnightly,Mid,Neutral,74,60.32,24.57
+Weekly,Mid,At_Risk,34,63.38,23.91
+Bi-Weekly,Mid,At_Risk,37,61.62,23.43
+Bi-Weekly,Mid,Neutral,81,64.72,23.33
+Monthly,Mid,Satisfied,89,62.29,23.11
+Annually,Mid,Satisfied,92,64.49,22.82
+Every 3 Months,Mid,At_Risk,34,66.59,22.68
+Every 3 Months,Mid,Neutral,81,64.96,21.84
+Weekly,Low,Satisfied,75,38.33,15.92
+Monthly,Low,At_Risk,37,39.14,15.62
+Quarterly,Low,Neutral,67,41.04,15.09
+Annually,Low,At_Risk,34,42.97,15.06
+Monthly,Low,Satisfied,74,41.19,15.05
+Annually,Low,Neutral,86,38.63,14.92
+Fortnightly,Low,Neutral,86,40.35,14.88
+Every 3 Months,Low,At_Risk,38,38.92,14.84
+Every 3 Months,Low,Neutral,77,39.84,14.74
+Weekly,Low,At_Risk,37,38.59,14.65
+Fortnightly,Low,Satisfied,88,40.6,14.23
+Quarterly,Low,Satisfied,68,41.94,14.22
+Quarterly,Low,At_Risk,34,40.15,13.97
+Fortnightly,Low,At_Risk,22,46.09,13.86
+Bi-Weekly,Low,Neutral,77,41.7,13.83
+Bi-Weekly,Low,At_Risk,31,41.32,13.81
+Bi-Weekly,Low,Satisfied,72,42.88,13.58
+Annually,Low,Satisfied,69,41.83,13.17
+Weekly,Low,Neutral,63,43.06,13.16
+Every 3 Months,Low,Satisfied,81,40.67,12.98
+Monthly,Low,Neutral,56,42.93,12.91
