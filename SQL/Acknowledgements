@@ -1,0 +1,14 @@
+# Acknowledgements
+
+This project was developed to demonstrate practical applications of SQL in customer retention and business intelligence.
+
+The analysis, database design, and query development were inspired by common industry use cases in CRM, customer analytics, and data-driven decision making.
+
+Special thanks to the open-source communities supporting:
+- SQLite
+- Python
+- Pandas
+- Jupyter Notebook
+- Git and GitHub
+
+This repository serves educational and portfolio purposes, showcasing SQL querying, database management, and business analytics skills.
