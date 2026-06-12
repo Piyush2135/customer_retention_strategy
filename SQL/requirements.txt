@@ -1,0 +1,58 @@
+# SQL Project Requirements
+
+## Project Title
+
+**Customer Retention Strategy using SQL**
+
+## Database
+
+* SQLite 3.x
+* Database File: `customers.db`
+
+## Core Technologies
+
+* SQL (Primary)
+* SQLite
+* Python 3.10+ (for data preprocessing and visualization)
+* Jupyter Notebook (optional for analysis walkthrough)
+
+## Python Libraries (Supporting Tools)
+
+* pandas
+* matplotlib
+* numpy
+* sqlite3 (built-in with Python)
+
+Install optional Python dependencies with:
+
+```
+pip install pandas matplotlib numpy jupyter
+```
+
+## Project Structure
+
+* `customers.db` — SQLite database containing customer records.
+* `sql_queries.sql` — Main SQL queries for business analysis.
+* `customer_value_analysis.ipynb` — SQL query execution and visualization.
+* `cleaned_customer_data.csv` — Cleaned dataset.
+* `customers_engineered.csv` — Feature-engineered dataset.
+* `q1_value_tiers.csv` — SQL output for customer value segmentation.
+* `q2_tenure_category.csv` — SQL output for tenure analysis.
+* `q3_geography.csv` — SQL output for geographic retention patterns.
+* `q4_promo_retention.csv` — SQL output for promotion effectiveness.
+* `q5_frequency.csv` — SQL output for purchase frequency analysis.
+* `dashboard.png` — Dashboard generated from SQL insights.
+* `executive_summary.md` — Business recommendations based on SQL analysis.
+* `retention_playbook.md` — Suggested customer retention strategies.
+
+## Execution Workflow
+
+1. Open the SQLite database (`customers.db`).
+2. Execute the queries provided in `sql_queries.sql`.
+3. Verify generated outputs and analysis tables.
+4. Review the notebook and dashboard for visualization.
+5. Read the executive summary and retention playbook for business insights.
+
+## Objective
+
+This repository demonstrates the use of SQL for solving real-world customer retention and business analytics problems through database querying, segmentation, aggregation, and strategic reporting.
